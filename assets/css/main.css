@@ -70,6 +70,7 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
+	font-size: 15pt;
 }
 
 /* Basic */
@@ -85,7 +86,7 @@ input, select, textarea {
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 15pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -104,7 +105,7 @@ input, select, textarea {
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 15pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -1827,9 +1828,9 @@ input, select, textarea {
 
 		ul.icons a {
 			display: inline-block;
-			width: 2em;
-			height: 2em;
-			line-height: 2em;
+			width: 3em;
+			height: 3em;
+			line-height: 0em;
 			text-align: center;
 			border: 0;
 		}

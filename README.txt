@@ -1,2 +1,2 @@
-## Hi! I am Diksha Khatwani
+# Hi! I am Diksha Khatwani
 
